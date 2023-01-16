@@ -1,6 +1,6 @@
 # eBayAdvancedTesting
 
-**This a part of the SVVT eBayTestingPage Project**
+**This is a part of the SVVT eBayTestingPage Project**
 
 I have completed a software testing project utilizing Selenium, JUnit, the Eclipse Integrated Development Environment, 
 and the Java programming language. Additionally, I have implemented advanced testing methods using the JavaScriptExecutor interface.
